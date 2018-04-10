@@ -6,9 +6,7 @@
 	<title></title>
 </head>
 <body>
-<script type="text/javascript">
-	document.write("hello,world!<br/>")
-	document.write("<strong>大家好</strong>")
+<p>hello,world!</p>
 </script>
 </body>
 </html>
